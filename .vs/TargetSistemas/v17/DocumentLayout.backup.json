@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WIN11\\source\\repos\\TargetSistemas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83B93846-8F6F-4A2C-B684-F86BC646CF5F}|TargetSistemas\\TargetSistemas.csproj|c:\\users\\win11\\source\\repos\\targetsistemas\\targetsistemas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B93846-8F6F-4A2C-B684-F86BC646CF5F}|TargetSistemas\\TargetSistemas.csproj|solutionrelative:targetsistemas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B93846-8F6F-4A2C-B684-F86BC646CF5F}|TargetSistemas\\TargetSistemas.csproj|c:\\users\\win11\\source\\repos\\targetsistemas\\targetsistemas\\desafiofibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B93846-8F6F-4A2C-B684-F86BC646CF5F}|TargetSistemas\\TargetSistemas.csproj|solutionrelative:targetsistemas\\desafiofibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B93846-8F6F-4A2C-B684-F86BC646CF5F}|TargetSistemas\\TargetSistemas.csproj|c:\\users\\win11\\source\\repos\\targetsistemas\\targetsistemas\\desafiosoma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B93846-8F6F-4A2C-B684-F86BC646CF5F}|TargetSistemas\\TargetSistemas.csproj|solutionrelative:targetsistemas\\desafiosoma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B93846-8F6F-4A2C-B684-F86BC646CF5F}|TargetSistemas\\TargetSistemas.csproj|c:\\users\\win11\\source\\repos\\targetsistemas\\targetsistemas\\maiusculominusculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B93846-8F6F-4A2C-B684-F86BC646CF5F}|TargetSistemas\\TargetSistemas.csproj|solutionrelative:targetsistemas\\maiusculominusculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DesafioSoma.cs",
+              "DocumentMoniker": "C:\\Users\\WIN11\\source\\repos\\TargetSistemas\\TargetSistemas\\DesafioSoma.cs",
+              "RelativeDocumentMoniker": "TargetSistemas\\DesafioSoma.cs",
+              "ToolTip": "C:\\Users\\WIN11\\source\\repos\\TargetSistemas\\TargetSistemas\\DesafioSoma.cs",
+              "RelativeToolTip": "TargetSistemas\\DesafioSoma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:27:38.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MaiusculoMinusculo.cs",
+              "DocumentMoniker": "C:\\Users\\WIN11\\source\\repos\\TargetSistemas\\TargetSistemas\\MaiusculoMinusculo.cs",
+              "RelativeDocumentMoniker": "TargetSistemas\\MaiusculoMinusculo.cs",
+              "ToolTip": "C:\\Users\\WIN11\\source\\repos\\TargetSistemas\\TargetSistemas\\MaiusculoMinusculo.cs",
+              "RelativeToolTip": "TargetSistemas\\MaiusculoMinusculo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:07:27.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DesafioFibonacci.cs",
+              "DocumentMoniker": "C:\\Users\\WIN11\\source\\repos\\TargetSistemas\\TargetSistemas\\DesafioFibonacci.cs",
+              "RelativeDocumentMoniker": "TargetSistemas\\DesafioFibonacci.cs",
+              "ToolTip": "C:\\Users\\WIN11\\source\\repos\\TargetSistemas\\TargetSistemas\\DesafioFibonacci.cs",
+              "RelativeToolTip": "TargetSistemas\\DesafioFibonacci.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:37:17.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WIN11\\source\\repos\\TargetSistemas\\TargetSistemas\\Program.cs",
+              "RelativeDocumentMoniker": "TargetSistemas\\Program.cs",
+              "ToolTip": "C:\\Users\\WIN11\\source\\repos\\TargetSistemas\\TargetSistemas\\Program.cs",
+              "RelativeToolTip": "TargetSistemas\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:36:31.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

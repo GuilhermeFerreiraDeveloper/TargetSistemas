@@ -1,0 +1,14 @@
+C:\Users\WIN11\source\repos\TargetSistemas\TargetSistemas\bin\Debug\net6.0\TargetSistemas.exe
+C:\Users\WIN11\source\repos\TargetSistemas\TargetSistemas\bin\Debug\net6.0\TargetSistemas.deps.json
+C:\Users\WIN11\source\repos\TargetSistemas\TargetSistemas\bin\Debug\net6.0\TargetSistemas.runtimeconfig.json
+C:\Users\WIN11\source\repos\TargetSistemas\TargetSistemas\bin\Debug\net6.0\TargetSistemas.dll
+C:\Users\WIN11\source\repos\TargetSistemas\TargetSistemas\bin\Debug\net6.0\TargetSistemas.pdb
+C:\Users\WIN11\source\repos\TargetSistemas\TargetSistemas\obj\Debug\net6.0\TargetSistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN11\source\repos\TargetSistemas\TargetSistemas\obj\Debug\net6.0\TargetSistemas.AssemblyInfoInputs.cache
+C:\Users\WIN11\source\repos\TargetSistemas\TargetSistemas\obj\Debug\net6.0\TargetSistemas.AssemblyInfo.cs
+C:\Users\WIN11\source\repos\TargetSistemas\TargetSistemas\obj\Debug\net6.0\TargetSistemas.csproj.CoreCompileInputs.cache
+C:\Users\WIN11\source\repos\TargetSistemas\TargetSistemas\obj\Debug\net6.0\TargetSistemas.dll
+C:\Users\WIN11\source\repos\TargetSistemas\TargetSistemas\obj\Debug\net6.0\refint\TargetSistemas.dll
+C:\Users\WIN11\source\repos\TargetSistemas\TargetSistemas\obj\Debug\net6.0\TargetSistemas.pdb
+C:\Users\WIN11\source\repos\TargetSistemas\TargetSistemas\obj\Debug\net6.0\TargetSistemas.genruntimeconfig.cache
+C:\Users\WIN11\source\repos\TargetSistemas\TargetSistemas\obj\Debug\net6.0\ref\TargetSistemas.dll
